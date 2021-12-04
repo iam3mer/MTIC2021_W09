@@ -4,7 +4,7 @@
 
 1. `git clone` para clonar el repositorio.
 
-2. ejecutar `npm install` en client y library.
+2. ejecutar `npm install` en front y back.
 
 3. Crear un archivo `.env` en la raiz de library, adyacete a `server.js`.
    
